@@ -1,4 +1,6 @@
 Overview : This is a magic memory game application. Where you can play the game by flipping the card and matching with same cards.
+
+
 See Demo : https://puneetshivaay.github.io/Magic-Memory-Game/ 
 
 How to install?
@@ -6,6 +8,7 @@ Clone this repository.
 Go inside Client folder by using command "cd client"
 install node packeges.
 To Start use "npm start"
+
 Featurs -
 
 Flipable Cards
