@@ -1,7 +1,9 @@
 Overview : This is a magic memory game application. Where you can play the game by flipping the card and matching with same cards.
 
 
-See Demo : https://puneetshivaay.github.io/Magic-Memory-Game/ 
+Play Here : https://puneetshivaay.github.io/Magic-Memory-Game/ 
+Watch Video : https://www.youtube.com/watch?v=EZTPC4R_phQ
+Read Here : https://puneetshivaay.medium.com/how-to-play-the-magic-memory-game-af3e2d838035
 
 How to install?
 Clone this repository.
